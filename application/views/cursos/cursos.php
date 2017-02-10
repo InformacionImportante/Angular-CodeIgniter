@@ -2,7 +2,7 @@
 <!DOCTYPE html> 
 <html lang="es"> 
 <head>
-	<title>Bienvenido</title>
+	<title>Bienvenido || AngularJS</title>
   
   <!-- Caracteres especiales-->
 	<meta charset="utf-8">
